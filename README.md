@@ -40,4 +40,5 @@ This is your shortcut to great interfaces. A shortcut to stand out in a sea of s
 - **[emil-design-eng](./skills/emil-design-eng/SKILL.md)** — The main skill that consinsts of mostly animation, but also some design advice.
 - **[review-animations](./skills/review-animations/SKILL.md)** — Review your animations in a strict way, based on my rules.
 - **[animation-vocabulary](./skills/animation-vocabulary/SKILL.md)** — Get better animations from an AI by telling it exactly what you want by using the right words.
+- **[apple-design](./skills/apple-design/SKILL.md)** — Apple's principles for interface design and fluid motion, distilled from their WWDC design talks and translated for the web.
 
