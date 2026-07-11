@@ -16,7 +16,7 @@ All the skills here are a side-effect of domain-expertise. AI doesn’t replace 
 
 So learn to code, design, or develop expertise in any other field. It’s extremely valuable.
 
-You can stay up to dates with my skills here:
+You can stay up to date with my skills here:
 
 [Sign Up To The Newsletter](https://animations.dev/skills)
 
@@ -41,7 +41,7 @@ This is your shortcut to great interfaces. A shortcut to stand out in a sea of s
 
 ## Reference
 
-- **[emil-design-eng](./skills/emil-design-eng/SKILL.md)** — The main skill that consinsts of mostly animation, but also some design advice.
+- **[emil-design-eng](./skills/emil-design-eng/SKILL.md)** — The main skill that consists of mostly animation, but also some design advice.
 - **[review-animations](./skills/review-animations/SKILL.md)** — Review your animations in a strict way, based on my rules.
 - **[improve-animations](./skills/improve-animations/SKILL.md)** — Audit all the animations in your codebase and get prioritized, self-contained plans that any agent can execute.
 - **[animation-vocabulary](./skills/animation-vocabulary/SKILL.md)** — Get better animations from an AI by telling it exactly what you want by using the right words.
