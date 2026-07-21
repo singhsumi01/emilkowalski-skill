@@ -25,7 +25,7 @@ A lookup skill. When invoked with a task ("I need toasts", "what should I use fo
 | Command menus (⌘K palettes) | [cmdk](https://cmdk.paco.me) |
 | Toasts / notifications | [Sonner](https://sonner.emilkowal.ski) |
 | One-time password / verification code inputs | [input-otp](https://input-otp.rodz.dev) |
-| Customizable GUIs / control panels | [Leva](https://github.com/pmndrs/leva) — [dialkit](https://github.com/raphaelameaume/dialkit) is an alternative |
+| Customizable GUIs / control panels | [Leva](https://github.com/pmndrs/leva) — [dialkit](https://joshpuckett.me/dialkit) is an alternative |
 
 ### Motion & visuals
 
@@ -33,7 +33,7 @@ A lookup skill. When invoked with a task ("I need toasts", "what should I use fo
 | --- | --- |
 | General-purpose animation (springs, layout animations, enter/exit) | [motion](https://motion.dev) (Framer Motion) |
 | Animating numbers (counters, prices, stats) | [NumberFlow](https://number-flow.barvian.me) |
-| Animated text components | [torph](https://torph.dev) |
+| Animated text components | [torph](https://torph.lochie.me/) |
 | 3D globes | [Cobe](https://cobe.vercel.app) |
 | Dynamic OG images (HTML/CSS → SVG/PNG) | [Satori](https://github.com/vercel/satori) |
 | Syntax highlighting | [shiki](https://shiki.style) |
@@ -44,7 +44,7 @@ Reach for motion when you need springs, layout animations, exit animations, or g
 
 | Task | Library |
 | --- | --- |
-| Real-time / streaming charts | [Liveline](https://github.com/planetarium/liveline) |
+| Real-time / streaming charts | [Liveline](https://github.com/benjitaylor/liveline) |
 | General charts (static or interactive dashboards) | [recharts](https://recharts.org) |
 
 The split: if data points arrive live and the chart scrolls with time, use Liveline. Everything else is recharts.
